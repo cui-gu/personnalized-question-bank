@@ -1,0 +1,22 @@
+{
+  "name": "personal-question-bank",
+  "version": "1.0.0",
+  "description": "个性化题库系统 - 智能学习平台",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Building Python Flask app'",
+    "start": "python api/index.py"
+  },
+  "keywords": [
+    "flask",
+    "education",
+    "learning",
+    "questions",
+    "programming"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.x"
+  }
+}
